@@ -1,2 +1,9 @@
-# leoind
-in this repo three folder one is Template, and one UI in Angluar and one is BACKEND
+This repository contains a complete full-stack application structure, divided into three main parts:
+Template, Angular UI, and Backend.
+
+📂 Repository Structure
+📦 project-root
+ ┣ 📂 Template
+ ┣ 📂 UI
+ ┣ 📂 BACKEND
+ ┗ 📄 README.md
